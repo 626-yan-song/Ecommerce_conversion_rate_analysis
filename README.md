@@ -3,8 +3,7 @@ E-commerce Conversion Rate Analysis
   
 Dataset  
 The dataset is from an online store, the explainations of the columns:  
-* pcode: product code  
-Week  
+* pcode: product code   
 - New_qty_pc: the percentage of new quantity  
 * New_style_pc: the percentage of new style  
 - Prod_br: product breadth is the variety of product lines that a store offers  
