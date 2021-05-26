@@ -2,7 +2,7 @@ E-commerce Conversion Rate Analysis
 
 Dataset
 The dataset is from an online store, the explainations of the columns:
-钱袋头巾男pcode: product code
+pcode: product code
 Week
 New_qty_pc: the percentage of new quantity
 New_style_pc: the percentage of new style
