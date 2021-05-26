@@ -1,6 +1,7 @@
 E-commerce Conversion Rate Analysis
 ---  
 Online store conversion analysis and optimization use python, Pandas, Numpy and Matplotlib  
+
 Dataset  
 ---
 The dataset is from an online store, the explainations of the columns:  
@@ -18,3 +19,8 @@ The dataset is from an online store, the explainations of the columns:
 - Transactions  
 * CTR: click through rate  
 - Econv_rate: conversion rate is the target variable  
+
+Research Questions:  
+---
+❓ Find out which variable can affect conversion rate  
+❓ Build a model to predict the conversion rate and how to improve the conversion rate  
