@@ -1,6 +1,7 @@
 E-commerce Conversion Rate Analysis
------------------------------------  
-  
+---  
+Online store conversion analysis and optimization use python, Pandas, Numpy and Matplotlib  
+---
 Dataset  
 The dataset is from an online store, the explainations of the columns:  
 * pcode: product code   
